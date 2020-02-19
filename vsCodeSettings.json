@@ -1,0 +1,30 @@
+{
+        "window.zoomLevel": 0,
+        "workbench.tree.indent": 20,
+        "go.useLanguageServer": true,
+        "[csharp]": {
+                "editor.defaultFormatter": "ms-vscode.csharp"
+        },
+    "editor.formatOnPaste": true,
+    "editor.fontSize": 12,
+        "eslint.alwaysShowStatus": true,
+        "javascript.updateImportsOnFileMove.enabled": "never",
+        "debug.onTaskErrors": "debugAnyway",
+        "eslint.lintTask.enable": true,
+        "editor.detectIndentation": false,
+        "editor.autoIndent": "none",
+        "editor.codeActionsOnSave": {
+                "source.fixAll.eslint": true,
+        "source.fixAll.tslint": true
+
+        },
+        "[python]": {},
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "eslint.codeActionsOnSave": true,
+    "tslint.jsEnable": true,
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnSave": true,
+    "eslint.run": "onSave",
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.renderWhitespace": "all",
+    "editor.insertSpaces": false
